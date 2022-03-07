@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution pae on FM](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca/hub/rest-countries-api-with-color-theme-switcher-LKipNDlo_/solutions)
+- [Live Demo](https://greatmetis.github.io/rest-countries-api-with-color-theme-switcher/)
 
 ### Built with
 
@@ -49,7 +49,6 @@ Users should be able to:
 ### What I learned
 
 The major learnings in this project is Vue Router. I not only know how to use router to navigate a declarative location but I understand how to use router's instance methods which can programmatically link to nested the routes.
-lans for continued development.\*\*
 
 ### Useful resources
 
