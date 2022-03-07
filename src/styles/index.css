@@ -1,0 +1,22 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+/* Typography */
+
+@layer base {
+  h1 {
+    @apply text-base md:text-lg lg:text-xl font-bold;
+  }
+  h2 {
+    @apply text-md font-bold;
+  }
+  h3 {
+    @apply text-base md:text-md;
+  }
+  h4 {
+    @apply font-bold text-base;
+  }
+}
