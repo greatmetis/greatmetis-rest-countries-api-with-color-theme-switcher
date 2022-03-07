@@ -57,7 +57,7 @@ The major learnings in this project is Vue Router. I not only know how to use ro
 ## Author
 
 - Frontend Mentor - [@greatmetis](https://www.frontendmentor.io/profile/@greatmetis)
-- LinkedIn - [Chao-Chen(Metsi) Teng](https://www.linkedin.com/in/chao-chen-metis-teng/)
+- LinkedIn - [Chao-Chen(Metis) Teng](https://www.linkedin.com/in/chao-chen-metis-teng/)
 
 ## Acknowledgments
 
