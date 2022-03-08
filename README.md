@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution pae on FM](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca/hub/rest-countries-api-with-color-theme-switcher-LKipNDlo_/solutions)
-- [Live Demo](https://greatmetis.github.io/rest-countries-api-with-color-theme-switcher/)
+- [Solution page on FM](https://www.frontendmentor.io/solutions/rest-countries-api-axios-vue-vue-router-tailwind-css-loader-4rNGCCJ4Q)
+- [Live Demo](https://greatmetis.github.io/greatmetis-rest-countries-api-with-color-theme-switcher/)
 
 ### Built with
 
@@ -57,7 +57,7 @@ The major learnings in this project is Vue Router. I not only know how to use ro
 ## Author
 
 - Frontend Mentor - [@greatmetis](https://www.frontendmentor.io/profile/@greatmetis)
-- LinkedIn - [Chao-Chen(Metsi) Teng](https://www.linkedin.com/in/chao-chen-metis-teng/)
+- LinkedIn - [Chao-Chen(Metis) Teng](https://www.linkedin.com/in/chao-chen-metis-teng/)
 
 ## Acknowledgments
 
