@@ -5,7 +5,7 @@
       <Header :mode="mode"
       @switchMode="switchMode"
       />
-      <router-view/>
+      <router-view :key="$route.path"/>
     </div>
   </div>
 </template>

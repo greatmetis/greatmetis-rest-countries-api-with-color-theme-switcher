@@ -50,9 +50,18 @@ Users should be able to:
 
 The major learnings in this project is Vue Router. I not only know how to use router to navigate a declarative location but I understand how to use router's instance methods which can programmatically link to nested the routes.
 
+Also, I confronted a problem on navigating between views. I found the URL was changed, while the page was not loaded. Fortunately, I found the solution is to add a `key` prop to router-view (see below for the example) to force load.
+
+```javascript=
+<router-view :key="$route.path"/>
+
+```
+
 ### Useful resources
 
 - [Stackoverflow](https://stackoverflow.com/questions/62462276/how-to-solve-avoided-redundant-navigation-to-current-location-error-in-vue) - This helped me to avoid redundant navigation on Vue Router. See the code in Component-`Header`.
+
+- [Common Vue problems](https://codeburst.io/common-vue-problems-watching-routes-google-maps-and-more-c3ea0dad49ee) - This helpmed me to solve the problem that vue router doesn't reload when navigating between Cards.
 
 ## Author
 

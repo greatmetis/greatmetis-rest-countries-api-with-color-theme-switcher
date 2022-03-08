@@ -41,12 +41,11 @@
             <div class="mb-8 md:flex md:flex-row">
                 <h3 class="font-semibold text-[18px] mb-4 mr-4 lg:text-[16px]">Border Countries: </h3>
                 <div class="flex flex-wrap">
-                  <a :href="`/details/${borderCountry.callingCodes}`" class="shadow-md rounded text-center p-2 min-w-[100px] mx-1 mb-2 bg-white hover:bg-blue-100 hover:text-white dark:bg-blue-100 dark:hover:bg-gray-100
-                  dark:hover:text-blue-100" 
-                  v-for="(borderCountry,index) in currentCountryborderCodes" :key="index" 
-                  >
+                  <router-link :to="borderCountry.callingCodes" 
+                  class="shadow-md rounded text-center p-2 min-w-[100px] mx-1 mb-2 bg-white hover:bg-blue-100 hover:text-white dark:bg-blue-100 dark:hover:bg-gray-100
+                  dark:hover:text-blue-100" v-for="(borderCountry,index) in currentCountryborderCodes" :key="index" >
                     {{borderCountry.name}}
-                  </a>
+                  </router-link>
                 </div>
             </div>
           </div>
