@@ -71,7 +71,9 @@ export default {
   computed:{
     ...mapState(['regions']),
   },
-
+  mounted(){
+    this.SET_SEARCH()
+  }
 }
 </script>
 
