@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution pae on FM](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca/hub/rest-countries-api-with-color-theme-switcher-LKipNDlo_/solutions)
-- [Live Demo](https://greatmetis.github.io/rest-countries-api-with-color-theme-switcher/)
+- [Solution page on FM](https://www.frontendmentor.io/solutions/rest-countries-api-axios-vue-vue-router-tailwind-css-loader-4rNGCCJ4Q)
+- [Live Demo](https://greatmetis.github.io/greatmetis-rest-countries-api-with-color-theme-switcher/)
 
 ### Built with
 
