@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "TAILWIND_MODE=watch vue-cli-service serve",
-    "build": "TAILWIND_MODE=watch vue-cli-service build",
+    "build": "TAILWIND_MODE=build vue-cli-service build",
     "lint": "vue-cli-service lint",
     "deploy":"sh deploy.sh"
   },
